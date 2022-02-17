@@ -38,7 +38,7 @@
           color: lighten($btn-bg-color, 20%);
         }
         &:active {
-          color: lighten($bitcoin-icon-bg-color, 10%);
+          color: lighten($ethereum-icon-bg-color, 10%);
         }
       }
       &__register-btn {
@@ -77,7 +77,7 @@
           color: lighten($btn-bg-color, 20%);
         }
         &:active {
-          color: lighten($bitcoin-icon-bg-color, 10%);
+          color: lighten($ethereum-icon-bg-color, 10%);
         }
       }
     }

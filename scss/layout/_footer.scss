@@ -43,7 +43,7 @@
           color: lighten($btn-bg-color, 20%);
         }
         &:active {
-          color: lighten($bitcoin-icon-bg-color, 10%);
+          color: lighten($ethereum-icon-bg-color, 10%);
         }
       }
     }
@@ -74,7 +74,7 @@
           color: lighten($btn-bg-color, 20%);
         }
         &:active {
-          color: lighten($bitcoin-icon-bg-color, 10%);
+          color: lighten($ethereum-icon-bg-color, 10%);
         }
       }
     }
@@ -108,7 +108,7 @@
           color: lighten($btn-bg-color, 20%);
         }
         &:active {
-          color: lighten($bitcoin-icon-bg-color, 10%);
+          color: lighten($ethereum-icon-bg-color, 10%);
         }
       }
     }
@@ -128,6 +128,6 @@
   a {
     display: inline-block;
     margin-left: 5px;
-    color: darken($bitcoin-icon-bg-color, 20%);
+    color: darken($ethereum-icon-bg-color, 20%);
   }
 }
